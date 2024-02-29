@@ -2,7 +2,7 @@ repo_name: dazeb/launchpad-tektim
 report_id: f60d4bfcdaefec72587affa47e7117e4
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-11T19:07:31+00:00'
+timestamp: '2024-02-29T19:27:00+00:00'
 requested_by: HoneyBearTech
 provider: github
 branch: master
@@ -22,7 +22,7 @@ tools:
   last_updated_by: Timothy Stewart
   last_updated_on: 2022-05-28 18:08:41.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -320,7 +320,7 @@ tools:
   last_updated_by: Timothy Stewart
   last_updated_on: 2022-02-14 01:32:02.000000000 Z
 - name: Syncthing
-  description: 'Open Source Continuous File Synchronization '
+  description: Open Source Continuous File Synchronization
   website_url: https://syncthing.net
   license: MPL-2.0
   open_source: true
